@@ -12,6 +12,7 @@ package br.com.moises.testegit;
 public class App {
 
     public static void main(String[] args) {
+        int x = 10;
         System.out.println("Adciionando projeto no Git");
     }
 }
